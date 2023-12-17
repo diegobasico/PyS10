@@ -12,3 +12,6 @@ S10 exporta sus análisis de precios unitarios en formato xls. Hice un código e
 
 *¿Cómo borrar el formato de una hoja en Excel?*
   - https://support.microsoft.com/es-es/office/borrar-celdas-de-contenido-o-formatos-9ff6b8ff-1afd-495f-8ad8-8c1f6f82a9d6
+
+**Change Log**
+v1.01: GUI añadida para el ingreso de los archivos.
